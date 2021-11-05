@@ -1,0 +1,2 @@
+# terminos
+Términos y políticas
